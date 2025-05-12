@@ -272,7 +272,6 @@ function checkOffTrackCollision() {
       return;
     }
   }
-}
 
 function checkBotCollisions() {
   for (let bot of bots) {
